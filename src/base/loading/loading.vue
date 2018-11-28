@@ -1,7 +1,7 @@
 <template>
   <transition name="fade">
     <div class="loading" v-show="visible">
-      <i class="iconfont icon-loading"></i>
+      <i class="iconfont icon-loading"> </i>
     </div>
   </transition>
 </template>
