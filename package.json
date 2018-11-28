@@ -10,6 +10,8 @@
   "dependencies": {
     "axios": "^0.18.0",
     "better-scroll": "^1.13.2",
+    "lib-flexible": "^0.3.2",
+    "px2rem-loader": "^0.1.9",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1"
   },

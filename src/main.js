@@ -5,8 +5,8 @@ import {get, post} from './axios';
 import directive from './directive';
 
 import 'common/stylus/index.styl'
-
-Vue.config.productionTip = false;
+import 'lib-flexible/flexible.js'
+Vue.config.productionTip = false; 
 
 Vue.prototype.$get = get;
 Vue.prototype.$post = post;
